@@ -17,7 +17,7 @@
   </a>
 </p>
 
-## 简介
+## 简介1
 
 &emsp;&emsp;依赖 [GitHub Actions](https://docs.github.com/cn/actions/learn-github-actions/understanding-github-actions) 的稀土掘金助手，用于自动化每日签到、沾喜气、免费抽奖、`BugFix`等。
 
